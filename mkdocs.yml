@@ -1,0 +1,14 @@
+site_name: Cálculo de distância entre duas geolocalizações
+site_author: Richard Wallan
+copyright: ScientifiCloud
+
+theme:
+  name: material
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.highlight
+
+plugins:
+  - mkdocstrings: # Esse que faz a mágica, mais informações abaixo
+  - with-pdf:
