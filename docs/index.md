@@ -2,9 +2,11 @@
 
 O projeto foi feito para calcular a distância entre duas geolocalizações.
 
-As etapas são construídas desde a limpeza e formatação de CEPs, utilização da API Google para buscar as geolocalizações dos CEPs e o cálculo da distância entre as geolocalizações obtidas.
+As ETAPAS são construídas desde a limpeza e formatação de CEPs, utilização da API Google para buscar as geolocalizações dos CEPs e o cálculo da distância entre as geolocalizações obtidas.
 
-Teste VsCode.
+Teste VsCode aa.
+
+Teste
 
 ## Estrutura do projeto
 
